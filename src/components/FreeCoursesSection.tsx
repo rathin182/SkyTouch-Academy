@@ -36,7 +36,7 @@ const freeCourses: FreeCourse[] = [
     duration: "1.5 hours",
     lessons: "6 lessons",
     students: "18,500",
-    highlights: ["GA4 Setup", "Traffic Analysis", "Goal Tracking", "Reporting"],
+    highlights: ["GA4 Setup", "Traffic Analysis", "Goal Tracking", "Visitor Analysis" , "Reporting"],
   },
   {
     title: "Social Media Marketing Basics",

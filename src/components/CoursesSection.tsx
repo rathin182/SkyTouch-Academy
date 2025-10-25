@@ -44,7 +44,7 @@ const coursesData: Course[] = [
     discount: 31,
   },
   {
-    title: "Social Media Marketing Pro",
+    title: "Social Media Marketing Pro Course",
     description: [],
     level: "Beginner to Intermediate",
     duration: "10 weeks",
